@@ -1,0 +1,28 @@
+name: OSDF
+favicon: null
+layout_spectrum: 0.9951285966672003
+typography_spectrum: 0.8580361851491034
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.10033091623336077
+  lightness: 0.506080987630412
+  saturation: 0.4998676744289696
+  rhythmicContrast: 0.1316963357385248
+purpose: []
